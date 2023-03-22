@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/JustWorick/Asyncronismo-js-platzi/issues"
   },
-  "homepage": "https://github.com/JustWorick/Asyncronismo-js-platzi#readme"
+  "homepage": "https://github.com/JustWorick/Asyncronismo-js-platzi#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
