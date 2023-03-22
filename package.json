@@ -1,0 +1,23 @@
+{
+  "name": "curso-de-asincronismo-js-platzi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JustWorick/Asyncronismo-js-platzi.git"
+  },
+  "keywords": [
+    "Async",
+    "JS"
+  ],
+  "author": "Abraham Fortunatte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustWorick/Asyncronismo-js-platzi/issues"
+  },
+  "homepage": "https://github.com/JustWorick/Asyncronismo-js-platzi#readme"
+}
