@@ -22,3 +22,13 @@ countcows.then((result) => {
 })
 //cuando la promesa termine, ya sea, resuelta o rechazada se puede encadenar un accion con .finally
 .finally(() => console.log('Finally'));
+
+
+//Playground Promesas (Resuelto)
+function delay(time, message) {
+  return new Promise((resolve) => {
+    window.setTimeout(() => {
+      resolve(message);
+    }, time)
+  })
+}
